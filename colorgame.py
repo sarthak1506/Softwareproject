@@ -3,7 +3,7 @@ import tkinter
 import random
 
 # list of possible colour.
-colours = ['Red', 'Blue', 'Green', 'Pink', 'Black',
+colours = ['Red', 'Blue', 'Green', 'Pink', 'Black', 'Violet'
            'Yellow', 'Orange', 'White', 'Purple', 'Brown']
 score = 0
 
